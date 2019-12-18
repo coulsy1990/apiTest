@@ -1,0 +1,733 @@
+{
+    "code": 200,
+    "message": "Request completed successfully.",
+    "data": {
+        "maps": {
+            "2015": {
+                "countries": [
+                    {
+                        "country": "Brazil",
+                        "countryId": 17,
+                        "total_sites": 2,
+                        "res": 1,
+                        "res_p": 50,
+                        "total_isolates": 2,
+                        "compound": "DRUG G1"
+                    },
+                    {
+                        "country": "Canada",
+                        "countryId": 26,
+                        "total_sites": 3,
+                        "res": 1,
+                        "res_p": 33.3,
+                        "total_isolates": 3,
+                        "compound": "DRUG G1"
+                    },
+                    {
+                        "country": "China",
+                        "countryId": 2,
+                        "total_sites": 9,
+                        "res": 1,
+                        "res_p": 11.1,
+                        "total_isolates": 9,
+                        "compound": "DRUG G1"
+                    },
+                    {
+                        "country": "Colombia",
+                        "countryId": 29,
+                        "total_sites": 2,
+                        "res": 0,
+                        "res_p": 0,
+                        "total_isolates": 2,
+                        "compound": "DRUG G1"
+                    },
+                    {
+                        "country": "Czech Republic",
+                        "countryId": 52,
+                        "total_sites": 1,
+                        "res": 0,
+                        "res_p": 0,
+                        "total_isolates": 1,
+                        "compound": "DRUG G1"
+                    },
+                    {
+                        "country": "Egypt",
+                        "countryId": 139,
+                        "total_sites": 1,
+                        "res": 0,
+                        "res_p": 0,
+                        "total_isolates": 1,
+                        "compound": "DRUG G1"
+                    },
+                    {
+                        "country": "Estonia",
+                        "countryId": 102,
+                        "total_sites": 1,
+                        "res": 0,
+                        "res_p": 0,
+                        "total_isolates": 1,
+                        "compound": "DRUG G1"
+                    },
+                    {
+                        "country": "France",
+                        "countryId": 10,
+                        "total_sites": 4,
+                        "res": 0,
+                        "res_p": 0,
+                        "total_isolates": 4,
+                        "compound": "DRUG G1"
+                    },
+                    {
+                        "country": "Greece",
+                        "countryId": 56,
+                        "total_sites": 1,
+                        "res": 0,
+                        "res_p": 0,
+                        "total_isolates": 1,
+                        "compound": "DRUG G1"
+                    },
+                    {
+                        "country": "Guatemala",
+                        "countryId": 57,
+                        "total_sites": 2,
+                        "res": 1,
+                        "res_p": 50,
+                        "total_isolates": 2,
+                        "compound": "DRUG G1"
+                    },
+                    {
+                        "country": "Honduras",
+                        "countryId": 41,
+                        "total_sites": 1,
+                        "res": 0,
+                        "res_p": 0,
+                        "total_isolates": 1,
+                        "compound": "DRUG G1"
+                    },
+                    {
+                        "country": "Hungary",
+                        "countryId": 60,
+                        "total_sites": 1,
+                        "res": 0,
+                        "res_p": 0,
+                        "total_isolates": 1,
+                        "compound": "DRUG G1"
+                    },
+                    {
+                        "country": "Indonesia",
+                        "countryId": 6,
+                        "total_sites": 10,
+                        "res": 1,
+                        "res_p": 10,
+                        "total_isolates": 10,
+                        "compound": "DRUG G1"
+                    },
+                    {
+                        "country": "Iran",
+                        "countryId": 54,
+                        "total_sites": 2,
+                        "res": 0,
+                        "res_p": 0,
+                        "total_isolates": 2,
+                        "compound": "DRUG G1"
+                    },
+                    {
+                        "country": "Malaysia",
+                        "countryId": 43,
+                        "total_sites": 1,
+                        "res": 0,
+                        "res_p": 0,
+                        "total_isolates": 1,
+                        "compound": "DRUG G1"
+                    },
+                    {
+                        "country": "Myanmar",
+                        "countryId": 8,
+                        "total_sites": 1,
+                        "res": 0,
+                        "res_p": 0,
+                        "total_isolates": 1,
+                        "compound": "DRUG G1"
+                    },
+                    {
+                        "country": "Netherlands",
+                        "countryId": 44,
+                        "total_sites": 1,
+                        "res": 1,
+                        "res_p": 100,
+                        "total_isolates": 1,
+                        "compound": "DRUG G1"
+                    },
+                    {
+                        "country": "Panama",
+                        "countryId": 74,
+                        "total_sites": 1,
+                        "res": 0,
+                        "res_p": 0,
+                        "total_isolates": 1,
+                        "compound": "DRUG G1"
+                    },
+                    {
+                        "country": "Philippines",
+                        "countryId": 11,
+                        "total_sites": 2,
+                        "res": 0,
+                        "res_p": 0,
+                        "total_isolates": 2,
+                        "compound": "DRUG G1"
+                    },
+                    {
+                        "country": "Poland",
+                        "countryId": 1,
+                        "total_sites": 1,
+                        "res": 0,
+                        "res_p": 0,
+                        "total_isolates": 1,
+                        "compound": "DRUG G1"
+                    },
+                    {
+                        "country": "Portugal",
+                        "countryId": 9,
+                        "total_sites": 4,
+                        "res": 2,
+                        "res_p": 50,
+                        "total_isolates": 4,
+                        "compound": "DRUG G1"
+                    },
+                    {
+                        "country": "Russia",
+                        "countryId": 3,
+                        "total_sites": 4,
+                        "res": 1,
+                        "res_p": 25,
+                        "total_isolates": 4,
+                        "compound": "DRUG G1"
+                    },
+                    {
+                        "country": "South Africa",
+                        "countryId": 93,
+                        "total_sites": 2,
+                        "res": 1,
+                        "res_p": 50,
+                        "total_isolates": 2,
+                        "compound": "DRUG G1"
+                    },
+                    {
+                        "country": "Sweden",
+                        "countryId": 16,
+                        "total_sites": 4,
+                        "res": 1,
+                        "res_p": 25,
+                        "total_isolates": 4,
+                        "compound": "DRUG G1"
+                    },
+                    {
+                        "country": "Uganda",
+                        "countryId": 75,
+                        "total_sites": 1,
+                        "res": 0,
+                        "res_p": 0,
+                        "total_isolates": 1,
+                        "compound": "DRUG G1"
+                    },
+                    {
+                        "country": "Ukraine",
+                        "countryId": 36,
+                        "total_sites": 1,
+                        "res": 0,
+                        "res_p": 0,
+                        "total_isolates": 1,
+                        "compound": "DRUG G1"
+                    }
+                ],
+                "contributing": {
+                    "compounds": [
+                        {
+                            "id": 50,
+                            "name": "DRUG G1"
+                        }
+                    ],
+                    "species": [
+                        {
+                            "id": 2,
+                            "name": "Streptococcus: Streptococcus agalactiae"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Streptococcus: Streptococcus gallolyticus"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Streptococcus: Streptococcus salivarius"
+                        },
+                        {
+                            "id": 27,
+                            "name": "Streptococcus: Streptococcus pyogenes"
+                        },
+                        {
+                            "id": 42,
+                            "name": "Streptococcus: Streptococcus"
+                        },
+                        {
+                            "id": 55,
+                            "name": "Streptococcus: Streptococcus mitis"
+                        },
+                        {
+                            "id": 79,
+                            "name": "Streptococcus: Streptococcus parasanguinis"
+                        },
+                        {
+                            "id": 87,
+                            "name": "Streptococcus: Streptococcus canis"
+                        },
+                        {
+                            "id": 95,
+                            "name": "Streptococcus: Streptococcus anginosus"
+                        },
+                        {
+                            "id": 116,
+                            "name": "Streptococcus: Streptococcus dysgalactiae"
+                        },
+                        {
+                            "id": 125,
+                            "name": "Streptococcus: Streptococcus equi"
+                        },
+                        {
+                            "id": 129,
+                            "name": "Streptococcus: Streptococcus intermedius"
+                        },
+                        {
+                            "id": 131,
+                            "name": "Streptococcus: Streptococcus sanguinis"
+                        },
+                        {
+                            "id": 170,
+                            "name": "Streptococcus: Streptococcus castoreus"
+                        },
+                        {
+                            "id": 196,
+                            "name": "Streptococcus: Streptococcus sanguis"
+                        },
+                        {
+                            "id": 213,
+                            "name": "Streptococcus: Streptococcus bovis"
+                        },
+                        {
+                            "id": 247,
+                            "name": "Streptococcus: Streptococcus pneumoniae"
+                        },
+                        {
+                            "id": 257,
+                            "name": "Streptococcus: Streptococcus lutetiensis"
+                        },
+                        {
+                            "id": 270,
+                            "name": "Streptococcus: Streptococcus constellatus"
+                        }
+                    ],
+                    "specimen_sources": [
+                        {
+                            "id": 2,
+                            "name": "GastroIntestinal (GI)"
+                        },
+                        {
+                            "id": 7,
+                            "name": "HEENT:Throat"
+                        },
+                        {
+                            "id": 8,
+                            "name": "CNS: Spinal Cord"
+                        },
+                        {
+                            "id": 10,
+                            "name": "INT: Impetiginous lesions"
+                        },
+                        {
+                            "id": 11,
+                            "name": "Integumentary (INT)"
+                        },
+                        {
+                            "id": 13,
+                            "name": "INT: Nails"
+                        },
+                        {
+                            "id": 14,
+                            "name": "Lymph: Lymph Nodes"
+                        },
+                        {
+                            "id": 18,
+                            "name": "Bodily Fluids: Peritoneal"
+                        },
+                        {
+                            "id": 19,
+                            "name": "Respiratory: Trachea"
+                        },
+                        {
+                            "id": 20,
+                            "name": "CVS: Blood"
+                        },
+                        {
+                            "id": 21,
+                            "name": "Bodily Fluids: Thoracentesis"
+                        },
+                        {
+                            "id": 23,
+                            "name": "Lymph: Other"
+                        },
+                        {
+                            "id": 24,
+                            "name": "Instruments: Drains / Tubes"
+                        },
+                        {
+                            "id": 30,
+                            "name": "Lymph: Spleen"
+                        },
+                        {
+                            "id": 31,
+                            "name": "GU: Ureter"
+                        },
+                        {
+                            "id": 32,
+                            "name": "INT: Furuncle"
+                        },
+                        {
+                            "id": 34,
+                            "name": "INT: Skin Ulcer"
+                        },
+                        {
+                            "id": 35,
+                            "name": "CNS: Peripheral Nerves"
+                        },
+                        {
+                            "id": 38,
+                            "name": "HEENT: Right eye"
+                        },
+                        {
+                            "id": 39,
+                            "name": "Bodily Fluids: Synovial"
+                        },
+                        {
+                            "id": 40,
+                            "name": "INT: Skin"
+                        },
+                        {
+                            "id": 41,
+                            "name": "INT: Hair"
+                        },
+                        {
+                            "id": 42,
+                            "name": "CVS: Heart"
+                        },
+                        {
+                            "id": 48,
+                            "name": "GU: Other"
+                        },
+                        {
+                            "id": 49,
+                            "name": "Instruments: Catheters"
+                        },
+                        {
+                            "id": 51,
+                            "name": "GU: Urine"
+                        },
+                        {
+                            "id": 57,
+                            "name": "Bodily Fluids: Abdominal"
+                        },
+                        {
+                            "id": 64,
+                            "name": "CNS: Other"
+                        },
+                        {
+                            "id": 71,
+                            "name": "Reproductive: Testes"
+                        },
+                        {
+                            "id": 73,
+                            "name": "GU: Urinary Bladder"
+                        },
+                        {
+                            "id": 77,
+                            "name": "GI: Stomach"
+                        },
+                        {
+                            "id": 78,
+                            "name": "Respiratory"
+                        },
+                        {
+                            "id": 80,
+                            "name": "Reproductive"
+                        },
+                        {
+                            "id": 81,
+                            "name": "Bodily Fluids: Ascetes"
+                        },
+                        {
+                            "id": 84,
+                            "name": "Instruments"
+                        },
+                        {
+                            "id": 86,
+                            "name": "Bodily Fluids: Feces/Stool"
+                        },
+                        {
+                            "id": 88,
+                            "name": "HEENT: Eyes"
+                        },
+                        {
+                            "id": 94,
+                            "name": "GI: Small Colon"
+                        },
+                        {
+                            "id": 96,
+                            "name": "GI: Abscess"
+                        },
+                        {
+                            "id": 101,
+                            "name": "GI: Appendix"
+                        },
+                        {
+                            "id": 102,
+                            "name": "Respiratory: Sinuses"
+                        },
+                        {
+                            "id": 103,
+                            "name": "HEENT: Left ear"
+                        },
+                        {
+                            "id": 104,
+                            "name": "Reproductive: Vas Deferens"
+                        },
+                        {
+                            "id": 108,
+                            "name": "Bodily Fluids: Paracentesis"
+                        },
+                        {
+                            "id": 112,
+                            "name": "CardioVascular (CVS)"
+                        },
+                        {
+                            "id": 113,
+                            "name": "GI: Pancreas"
+                        },
+                        {
+                            "id": 114,
+                            "name": "Respiratory: Other"
+                        }
+                    ],
+                    "wards": [
+                        {
+                            "id": 1,
+                            "name": "General Unspecified ICU"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Medicine ICU"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Surgery ICU"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Other"
+                        },
+                        {
+                            "id": 5,
+                            "name": "Emergency Room"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Clinic/Office"
+                        },
+                        {
+                            "id": 7,
+                            "name": "Pediatric ICU"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Outpatient"
+                        },
+                        {
+                            "id": 9,
+                            "name": "Nursing Home / Rehab"
+                        },
+                        {
+                            "id": 10,
+                            "name": "Surgery General"
+                        },
+                        {
+                            "id": 11,
+                            "name": "Medicine General"
+                        },
+                        {
+                            "id": 12,
+                            "name": "Pediatric General"
+                        },
+                        {
+                            "id": 13,
+                            "name": "Office"
+                        },
+                        {
+                            "id": 14,
+                            "name": "Unknown"
+                        }
+                    ],
+                    "year": [
+                        {
+                            "name": "2015"
+                        }
+                    ],
+                    "genera": [
+                        {
+                            "id": 2,
+                            "name": "Streptococcus"
+                        }
+                    ],
+                    "countries": [
+                        {
+                            "id": 1,
+                            "name": "Poland"
+                        },
+                        {
+                            "id": 2,
+                            "name": "China"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Russia"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Indonesia"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Myanmar"
+                        },
+                        {
+                            "id": 9,
+                            "name": "Portugal"
+                        },
+                        {
+                            "id": 10,
+                            "name": "France"
+                        },
+                        {
+                            "id": 11,
+                            "name": "Philippines"
+                        },
+                        {
+                            "id": 16,
+                            "name": "Sweden"
+                        },
+                        {
+                            "id": 17,
+                            "name": "Brazil"
+                        },
+                        {
+                            "id": 26,
+                            "name": "Canada"
+                        },
+                        {
+                            "id": 29,
+                            "name": "Colombia"
+                        },
+                        {
+                            "id": 36,
+                            "name": "Ukraine"
+                        },
+                        {
+                            "id": 41,
+                            "name": "Honduras"
+                        },
+                        {
+                            "id": 43,
+                            "name": "Malaysia"
+                        },
+                        {
+                            "id": 44,
+                            "name": "Netherlands"
+                        },
+                        {
+                            "id": 52,
+                            "name": "Czech Republic"
+                        },
+                        {
+                            "id": 54,
+                            "name": "Iran"
+                        },
+                        {
+                            "id": 56,
+                            "name": "Greece"
+                        },
+                        {
+                            "id": 57,
+                            "name": "Guatemala"
+                        },
+                        {
+                            "id": 60,
+                            "name": "Hungary"
+                        },
+                        {
+                            "id": 74,
+                            "name": "Panama"
+                        },
+                        {
+                            "id": 75,
+                            "name": "Uganda"
+                        },
+                        {
+                            "id": 93,
+                            "name": "South Africa"
+                        },
+                        {
+                            "id": 102,
+                            "name": "Estonia"
+                        },
+                        {
+                            "id": 139,
+                            "name": "Egypt"
+                        }
+                    ],
+                    "studies": [
+                        {
+                            "id": 1,
+                            "name": "Surveillance Study"
+                        }
+                    ],
+                    "genotypes": [
+                        {
+                            "id": 1,
+                            "name": "MBL"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Non-MBL"
+                        }
+                    ],
+                    "phenotypes": [
+                        {
+                            "id": 1,
+                            "name": "BL Positive"
+                        },
+                        {
+                            "id": 2,
+                            "name": "ESBL Positive"
+                        },
+                        {
+                            "id": 3,
+                            "name": "BL Negative"
+                        },
+                        {
+                            "id": 4,
+                            "name": "ESBL Negative"
+                        }
+                    ],
+                    "breakpointType": "clsi"
+                }
+            }
+        }
+    },
+    "status": "OK"
+}
