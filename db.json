@@ -1,7 +1,4 @@
 {
-    "code": 200,
-    "message": "Request completed successfully.",
-    "data": {
         "maps": {
             "2015": {
                 "countries": [
@@ -203,42 +200,6 @@
                         "total_isolates": 4,
                         "compound": "DRUG G1"
                     },
-                    {
-                        "country": "South Africa",
-                        "countryId": 93,
-                        "total_sites": 2,
-                        "res": 1,
-                        "res_p": 50,
-                        "total_isolates": 2,
-                        "compound": "DRUG G1"
-                    },
-                    {
-                        "country": "Sweden",
-                        "countryId": 16,
-                        "total_sites": 4,
-                        "res": 1,
-                        "res_p": 25,
-                        "total_isolates": 4,
-                        "compound": "DRUG G1"
-                    },
-                    {
-                        "country": "Uganda",
-                        "countryId": 75,
-                        "total_sites": 1,
-                        "res": 0,
-                        "res_p": 0,
-                        "total_isolates": 1,
-                        "compound": "DRUG G1"
-                    },
-                    {
-                        "country": "Ukraine",
-                        "countryId": 36,
-                        "total_sites": 1,
-                        "res": 0,
-                        "res_p": 0,
-                        "total_isolates": 1,
-                        "compound": "DRUG G1"
-                    }
                 ],
                 "contributing": {
                     "compounds": [
@@ -304,26 +265,6 @@
                             "id": 170,
                             "name": "Streptococcus: Streptococcus castoreus"
                         },
-                        {
-                            "id": 196,
-                            "name": "Streptococcus: Streptococcus sanguis"
-                        },
-                        {
-                            "id": 213,
-                            "name": "Streptococcus: Streptococcus bovis"
-                        },
-                        {
-                            "id": 247,
-                            "name": "Streptococcus: Streptococcus pneumoniae"
-                        },
-                        {
-                            "id": 257,
-                            "name": "Streptococcus: Streptococcus lutetiensis"
-                        },
-                        {
-                            "id": 270,
-                            "name": "Streptococcus: Streptococcus constellatus"
-                        }
                     ],
                     "specimen_sources": [
                         {
@@ -454,66 +395,6 @@
                             "id": 78,
                             "name": "Respiratory"
                         },
-                        {
-                            "id": 80,
-                            "name": "Reproductive"
-                        },
-                        {
-                            "id": 81,
-                            "name": "Bodily Fluids: Ascetes"
-                        },
-                        {
-                            "id": 84,
-                            "name": "Instruments"
-                        },
-                        {
-                            "id": 86,
-                            "name": "Bodily Fluids: Feces/Stool"
-                        },
-                        {
-                            "id": 88,
-                            "name": "HEENT: Eyes"
-                        },
-                        {
-                            "id": 94,
-                            "name": "GI: Small Colon"
-                        },
-                        {
-                            "id": 96,
-                            "name": "GI: Abscess"
-                        },
-                        {
-                            "id": 101,
-                            "name": "GI: Appendix"
-                        },
-                        {
-                            "id": 102,
-                            "name": "Respiratory: Sinuses"
-                        },
-                        {
-                            "id": 103,
-                            "name": "HEENT: Left ear"
-                        },
-                        {
-                            "id": 104,
-                            "name": "Reproductive: Vas Deferens"
-                        },
-                        {
-                            "id": 108,
-                            "name": "Bodily Fluids: Paracentesis"
-                        },
-                        {
-                            "id": 112,
-                            "name": "CardioVascular (CVS)"
-                        },
-                        {
-                            "id": 113,
-                            "name": "GI: Pancreas"
-                        },
-                        {
-                            "id": 114,
-                            "name": "Respiratory: Other"
-                        }
                     ],
                     "wards": [
                         {
@@ -560,18 +441,6 @@
                             "id": 11,
                             "name": "Medicine General"
                         },
-                        {
-                            "id": 12,
-                            "name": "Pediatric General"
-                        },
-                        {
-                            "id": 13,
-                            "name": "Office"
-                        },
-                        {
-                            "id": 14,
-                            "name": "Unknown"
-                        }
                     ],
                     "year": [
                         {
@@ -728,6 +597,4 @@
                 }
             }
         }
-    },
-    "status": "OK"
-}
+    }
